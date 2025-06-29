@@ -24,9 +24,7 @@
 | Repository | Description |
 |------------|-------------|
 | [![DSA](https://img.shields.io/badge/DSA-Leetcode%20%26%20CP-blue?style=for-the-badge&logo=codeforces)](https://github.com/y4sh-codes/DSA) | Solved problems and patterns using C++ & Python |
-| [![SmartMat](https://img.shields.io/badge/IoT%20+%20AI-Smart%20Health%20Mat-success?style=for-the-badge&logo=raspberrypi)](https://github.com/y4sh-codes/smart-health-mat) | Smart floor mat for body diagnostics |
-| [![Deepfake](https://img.shields.io/badge/ML-Deepfake%20Detector-critical?style=for-the-badge&logo=pytorch)](https://github.com/y4sh-codes/deepfake-detector) | Deepfake video detection using TimeSformer |
-| [![FastAPI Deploy](https://img.shields.io/badge/API-FastAPI%20Deployment-green?style=for-the-badge&logo=fastapi)](https://github.com/y4sh-codes/fastapi-deepfake-api) | Model deployment using FastAPI and Hugging Face Spaces |
+| [![Deepfake](https://img.shields.io/badge/ML-Deepfake%20Detector-critical?style=for-the-badge&logo=pytorch)](https://github.com/y4sh-codes/Lopt) | Deepfake Classification Framework  |
 
 ---
 
@@ -90,10 +88,3 @@
   <a href="https://www.reddit.com/user/Yashraj_231105"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></a>
 </p>
 
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=y4sh-codes&label=Profile+Views&color=6&icon=0&pretty=true" />
-</p>
-
-<!-- Designed with ❤️ by Yashraj Singh | Inspired by CyberKnight-cmd -->
