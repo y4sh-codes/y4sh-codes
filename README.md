@@ -1,7 +1,9 @@
-<!-- Animated Typing Header -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=800&center=true&vCenter=true&width=435&lines=👋+Hi%2C+I'm+Yashraj+Singh!;💡+Making+myself+better+everyday!;🚀+ML+Enthusiast+%7C+Full-Stack+Dev" alt="Typing SVG" />
-</h1>
+<h1 align="center">Hi 👋, I'm Yashraj Singh</h1>
+
+<!-- Typing animation for the quote -->
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=450&lines=Making+myself+better+everyday!" alt="Typing SVG" />
+</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="180" />
@@ -62,5 +64,4 @@
   <img src="https://visitcount.itsvg.in/api?id=y4sh-codes&label=Profile+Views&color=6&icon=0&pretty=true" />
 </p>
 
-<!-- Designed with ❤️ by Yashraj Singh -->
-
+<!-- Made with ❤️ by Yashraj Singh -->
