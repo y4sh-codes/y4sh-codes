@@ -31,23 +31,18 @@
 
 ### 🧰 Tech Toolbox
 
-#### 💻 Programming
 <p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C.svg?logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00.svg?logo=openjdk&logoColor=white" />
-</p>
-
-#### 🧠 Frameworks & Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
 ---
