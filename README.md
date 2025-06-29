@@ -70,9 +70,10 @@
 ### 📫 Connect with Me
 
 <p align="center">
-  <a href="mailto:yashrajofficial2311@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:yashrajsingh231105@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/y4sh-codes"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://x.com/y4sh_codes"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="https://www.reddit.com/user/Yashraj_231105"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/Yashraj2311/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 </p>
 
