@@ -12,6 +12,13 @@
   </a>
 </p>
 
+### ✨ Snake Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/y4sh-codes/output/snake.svg" alt="Snake animation" />
+</p>
+
+
 ---
 
 # 💫 About Me:
