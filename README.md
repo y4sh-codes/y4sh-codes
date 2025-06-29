@@ -72,14 +72,6 @@
 
 ---
 
-### ✨ Snake Animation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/y4sh-codes/y4sh-codes/output/snake.svg" alt="Snake animation" />
-</p>
-
----
-
 ### 📫 Connect with Me
 
 <p align="center">
