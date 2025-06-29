@@ -25,6 +25,7 @@
 |------------|-------------|
 | [![DSA](https://img.shields.io/badge/DSA-Leetcode%20%26%20CP-blue?style=for-the-badge&logo=codeforces)](https://github.com/y4sh-codes/DSA) | Solved problems and patterns using C++ & Python |
 | [![Deepfake](https://img.shields.io/badge/ML-Deepfake%20Detector-critical?style=for-the-badge&logo=pytorch)](https://github.com/y4sh-codes/Lopt) | Deepfake Classification Framework  |
+| [![ArchiveNet](https://img.shields.io/badge/Web3-ArchiveNet-purple?style=for-the-badge&logo=ethereum)](https://github.com/y4sh-codes/ArchiveNet) | 🧠 A decentralized memory protocol integrating Web3, MCP, and local AI agents to persist context across platforms |
 
 ---
 
