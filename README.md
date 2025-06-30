@@ -1,7 +1,7 @@
 <!-- Header Image -->
 <p align="center">
   <a href="https://github.com/y4sh-codes">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0F2027,203A43,2C5364&height=250&section=header&text=Yashraj%20Singh&fontSize=60&fontColor=00FFFF&animation=fadeIn" alt="Yashraj Singh Banner"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0F2027,203A43,2C5364&height=250&section=header&text=Yashraj%20Singh&fontSize=60&fontColor=00FFFF&animation=fadeIn&background=transparent" alt="Yashraj Singh Banner"/>
   </a>
 </p>
 
