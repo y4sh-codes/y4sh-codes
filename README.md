@@ -88,8 +88,6 @@
 <div>  
   <br>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=y4sh-codes&theme=react&hide_border=true&border_radius=10" alt="Yashraj's Contribution Streak" />
-  <br>
-    <img src="https://github-profile-trophy.vercel.app/?username=y4sh-codes&theme=react&no-frame=true&no-bg=true&margin-w=4&row=2" alt="GitHub Trophies" />
 </div>
 
 ---
