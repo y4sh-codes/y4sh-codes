@@ -1,277 +1,125 @@
 <div align="center">
+    <a href="https://github.com/y4sh-codes">
+        <img src="https://komarev.com/ghpvc/?username=y4sh-codes&color=FF69B4" alt="Profile views">
+    </a>
+    <h1>Hi there👋 Myself Yashraj Singh</h1>
+    <img src="https://quotes-github-readme.vercel.app/api?type=programming&theme=dark" alt="Rotating Programming Quotes" />
+    <h3>💻 AI/ML Enthusiast | Backend & Devops | System Architect</h3>
+    <p>Building impactful software, pushing technical boundaries, and committed to open source.</p>
 
-# 👋 Yashraj Singh
-
-### 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=y4sh-codes&theme=react&no-frame=true&no-bg=true&margin-w=4&row=2" />
-
+</div>
 </div>
 
 ---
 
-<div align="center">
-
-## 🌟 About Me
-
-</div>
-
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      
-### 👨‍💻 Current Focus
-```yaml
-status: "Constantly Improving"
-focus: "Building Myself"
-learning: 
-  - Data Structures & Algorithms
-  - Machine Learning
-  - System Design
-exploring: "Latest CS Trends"
-```
-
-    </td>
-    <td align="center" width="50%">
-      
-### 🎯 Goals & Vision
-```yaml
-passion: "Technology & Open Source"
-mission: "Impactful Software Solutions"
-vision: "Inspiring Future Developers"
-philosophy: "Learn. Build. Share. Repeat."
-```
-
-    </td>
-  </tr>
-</table>
+## 🚀 About Me & Philosophy
 
 <div align="center">
-  
-### 💎 Core Values
-![Innovation](https://img.shields.io/badge/Innovation-FF6B6B?style=flat-square&logo=lightbulb&logoColor=white)
-![Excellence](https://img.shields.io/badge/Excellence-4ECDC4?style=flat-square&logo=target&logoColor=white)
-![Growth](https://img.shields.io/badge/Growth-45B7D1?style=flat-square&logo=trending-up&logoColor=white)
-![Collaboration](https://img.shields.io/badge/Collaboration-96CEB4?style=flat-square&logo=people&logoColor=white)
-
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2kyMGhmam13cTBrZmZienJvNGNxdG5mZ2N2MzN4anduZ2g5MmExeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Focused Coding Work" width="350"/>
 </div>
+
+| Focus Area | Goal & Vision | Core Values |
+| :--- | :--- | :--- |
+| **Status:** Constantly Improving | **Passion:** Technology & Open Source | ✨ Innovation |
+| **Learning:** DSA, ML, System Design | **Mission:** Impactful Solutions | 💎 Excellence |
+| **Exploring:** Latest CS Trends | **Philosophy:** Learn. Build. Share. Repeat. | 📈 Growth & Collaboration |
 
 ---
-
-<div align="center">
 
 ## 📌 Featured Projects
 
-</div>
-
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
-      <div>
-        <a href="https://github.com/y4sh-codes/DSA">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=y4sh-codes&repo=DSA&theme=react&hide_border=true&border_radius=10" />
-        </a>
-      </div>
-      <br>
-      <img src="https://img.shields.io/badge/DSA-Competitive%20Programming-blue?style=for-the-badge&logo=codeforces&logoColor=white" />
-      <br><br>
-      <sub><b>🧩 Algorithm & Data Structure Solutions</b></sub>
-      <br>
-      <sub>Solved problems using C++ & Python</sub>
-    </td>
-    <td align="center" width="33%">
-      <div>
-        <a href="https://github.com/y4sh-codes/Lopt">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=y4sh-codes&repo=Lopt&theme=react&hide_border=true&border_radius=10" />
-        </a>
-      </div>
-      <br>
-      <img src="https://img.shields.io/badge/ML-Deepfake%20Detection-critical?style=for-the-badge&logo=pytorch&logoColor=white" />
-      <br><br>
-      <sub><b>🤖 AI-Powered Deepfake Detector</b></sub>
-      <br>
-      <sub>Advanced classification framework</sub>
-    </td>
-    <td align="center" width="33%">
-      <div>
-        <a href="https://github.com/y4sh-codes/context0">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=y4sh-codes&repo=context0&theme=react&hide_border=true&border_radius=10" />
-        </a>
-      </div>
-      <br>
-      <img src="https://img.shields.io/badge/Web3-Decentralized%20Memory-purple?style=for-the-badge&logo=ethereum&logoColor=white" />
-      <br><br>
-      <sub><b>🧠 Context0 Protocol</b></sub>
-      <br>
-      <sub>Web3 + MCP + Local AI Integration</sub>
-    </td>
-  </tr>
-</table>
-
----
+| 🌐 **context0 Protocol** | 🤖 **Lopt (Deepfake Detector)** | 📚 **DSA & Competitive** |
+| :--- | :--- | :--- |
+| **Web3 & Local AI:** Decentralized memory protocol, leveraging blockchain and edge computing. | **AI/ML:** Advanced classification framework for deepfake detection, built with PyTorch. | **Algorithms:** Comprehensive repository of optimized Data Structures and Algorithm solutions in C++ & Python. |
+| [Repo Link](https://github.com/y4sh-codes/context0) | [Repo Link](https://github.com/y4sh-codes/Lopt) | [Repo Link](https://github.com/y4sh-codes/DSA) |
 
 <div align="center">
-
-## 🛠️ Technology Stack
-
-</div>
-
-<table align="center">
-  <tr>
-    <td align="center" width="25%">
-      <div>
-        <h3>💻 Languages</h3>
-        <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-        <br>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-        <br>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-        <br>
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-        <br>
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-      </div>
-    </td>
-    <td align="center" width="25%">
-      <div>
-        <h3>🚀 Frameworks</h3>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-        <br>
-        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-        <br>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-        <br>
-        <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-        <br>
-        <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-      </div>
-    </td>
-    <td align="center" width="25%">
-      <div>
-        <h3>💾 Databases</h3>
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-        <br>
-        <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-        <br>
-        <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-        <br>
-        <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-        <br>
-        <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-      </div>
-    </td>
-    <td align="center" width="25%">
-      <div>
-        <h3>☁️ DevOps & Tools</h3>
-        <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-        <br>
-        <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-        <br>
-        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-        <br>
-        <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-        <br>
-        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-      </div>
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-  
-### 🎯 Specialized In
-![Algorithms](https://img.shields.io/badge/Algorithms-FF5733?style=flat-square&logo=algolia&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF9500?style=flat-square&logo=tensorflow&logoColor=white)
-![Web Development](https://img.shields.io/badge/Web%20Development-61DAFB?style=flat-square&logo=react&logoColor=white)
-![System Design](https://img.shields.io/badge/System%20Design-000000?style=flat-square&logo=systemd&logoColor=white)
-![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=flat-square&logo=ethereum&logoColor=white)
-
+    <a href="https://github.com/y4sh-codes/context0"><img src="https://img.shields.io/badge/Web3-Decentralized%20Memory-purple?style=for-the-badge&logo=ethereum&logoColor=white" /></a>
+    <a href="https://github.com/y4sh-codes/Lopt"><img src="https://img.shields.io/badge/ML-Deepfake%20Detection-critical?style=for-the-badge&logo=pytorch&logoColor=white" /></a>
+    <a href="https://github.com/y4sh-codes/DSA"><img src="https://img.shields.io/badge/DSA-Competitive%20Programming-blue?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
 </div>
 
 ---
 
-<div align="center">
+## 🛠️ Technology Stack & Skills
 
-## 📊 GitHub Analytics
+### 🚀 Core Technologies
 
-</div>
+<p align="center">
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+</p>
 
-<table align="center">
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=y4sh-codes&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&border_radius=10" height="200" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=y4sh-codes&layout=compact&theme=react&hide_border=true&border_radius=10" height="200" />
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-  
-### 🔥 Contribution Streak
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=y4sh-codes&theme=react&hide_border=true&border_radius=10" />
-
-</div>
+### 🎯 Specialized Domains
 
 <div align="center">
-  
-### 📈 Activity Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph/?username=y4sh-codes&bg_color=20232a&color=61dafb&line=61dafb&point=ffffff&hide_border=true&custom_title=Contribution%20Graph" width="100%" />
-
+    <img src="https://img.shields.io/badge/Algorithms-FF5733?style=flat-square&logo=algolia&logoColor=white" />
+    <img src="https://img.shields.io/badge/Machine%20Learning-FF9500?style=flat-square&logo=tensorflow&logoColor=white" />
+    <img src="https://img.shields.io/badge/System%20Design-000000?style=flat-square&logo=systemd&logoColor=white" />
+    <img src="https://img.shields.io/badge/Blockchain-121D33?style=flat-square&logo=ethereum&logoColor=white" />
 </div>
 
 ---
 
+## 📊 GitHub Analytics & Fun
+
 <div align="center">
+    <table align="center">
+        <tr>
+            <td align="center" width="50%">
+                <img src="https://github-readme-stats.vercel.app/api?username=y4sh-codes&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&border_radius=10" alt="Yashraj's GitHub Stats" />
+            </td>
+            <td align="center" width="50%">
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=y4sh-codes&layout=compact&theme=react&hide_border=true&border_radius=10" alt="Yashraj's Top Languages" />
+            </td>
+        </tr>
+    </table>
+<div>  
+  <br>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=y4sh-codes&theme=react&hide_border=true&border_radius=10" alt="Yashraj's Contribution Streak" />
+  <br>
+    <img src="https://github-profile-trophy.vercel.app/?username=y4sh-codes&theme=react&no-frame=true&no-bg=true&margin-w=4&row=2" alt="GitHub Trophies" />
+</div>
+
+---
 
 ## 🤝 Let's Connect & Collaborate
 
+<div align="center">
+    <a href="mailto:yashrajsingh231105@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://linkedin.com/in/y4sh-codes">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://x.com/y4sh_codes">
+        <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
+    </a>
+    <a href="https://leetcode.com/u/Yashraj2311/">
+        <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+    </a>
+    <a href="https://www.reddit.com/user/Yashraj_231105">
+        <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" />
+    </a>
 </div>
 
-<table align="center">
-  <tr>
-    <td align="center" width="20%">
-      <a href="mailto:yashrajsingh231105@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-        <br><sub><b>Email Me</b></sub>
-      </a>
-    </td>
-    <td align="center" width="20%">
-      <a href="https://linkedin.com/in/y4sh-codes">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-        <br><sub><b>Professional</b></sub>
-      </a>
-    </td>
-    <td align="center" width="20%">
-      <a href="https://x.com/y4sh_codes">
-        <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-        <br><sub><b>Updates</b></sub>
-      </a>
-    </td>
-    <td align="center" width="20%">
-      <a href="https://www.reddit.com/user/Yashraj_231105">
-        <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
-        <br><sub><b>Community</b></sub>
-      </a>
-    </td>
-    <td align="center" width="20%">
-      <a href="https://leetcode.com/u/Yashraj2311/">
-        <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-        <br><sub><b>Coding</b></sub>
-      </a>
-    </td>
-  </tr>
-</table>
-
 <div align="center">
-  
-### 💬 Fun Fact
-*"Every expert was once a beginner. Every pro was once an amateur. Every icon was once an unknown."*
+    <br>
+        Every expert was once a beginner. Let's learn and build something amazing together! 🚀
+    <br>
+</div>
+<div>
+  <br>
+    <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with love" />
+  <br>
+</div>
 
 ---
-
-<div align="center">
-  
-*Thanks for visiting my profile! Let's build something amazing together! 🚀*
-
-</div>
