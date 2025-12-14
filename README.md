@@ -66,7 +66,7 @@
 
 ---
 
-## 📊 GitHub Analytics & Fun
+## 📊 GitHub Analytics
 
 <div align="center">
     <table align="center">
