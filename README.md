@@ -1,7 +1,4 @@
 <div align="center">
-    <a href="https://github.com/y4sh-codes">
-        <img src="https://komarev.com/ghpvc/?username=y4sh-codes&color=FF69B4" alt="Profile views">
-    </a>
     <h1>Hi there👋 Myself Yashraj Singh</h1>
     <img src="https://quotes-github-readme.vercel.app/api?type=programming&theme=dark" alt="Rotating Programming Quotes" />
     <h3>💻 AI/ML Enthusiast | Backend & Devops | System Architect</h3>
