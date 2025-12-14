@@ -7,6 +7,10 @@
 </div>
 </div>
 
+<div align="center">
+    <img src="https://raw.githubusercontent.com/y4sh-codes/y4sh-codes/output/github-snake-dark.svg" alt="GitHub Snake Animation"/>
+</div>
+
 ---
 
 ## 🚀 About Me & Philosophy
