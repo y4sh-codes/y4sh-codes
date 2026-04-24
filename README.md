@@ -3,7 +3,7 @@
     <h1>Hi there👋 Myself Yashraj Singh</h1>
     <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&color=0077B6&center=true&vCenter=true&width=1000&lines=Eat,+Sleep,+Code,+Repeat.;Code+is+like+humour.;If+you+have+to+explain+your+code%2C+it's+bad.;Programming+is+a+vocation+of+mind." 
         alt="Typing quote animation" />
-    <h3>💻 AI/ML Engineer | Backend & Devops | System Architect</h3>
+    <h3>💻 AI/ML Engineer | Backend & Devops </h3>
     <p>Building impactful software, pushing technical boundaries, and committed to open source.</p>
 
 </div>
