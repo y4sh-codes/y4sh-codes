@@ -51,12 +51,6 @@
 <p align="center">
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
@@ -67,27 +61,6 @@
     <img src="https://img.shields.io/badge/Algorithms-FF5733?style=flat-square&logo=algolia&logoColor=white" />
     <img src="https://img.shields.io/badge/Machine%20Learning-FF9500?style=flat-square&logo=tensorflow&logoColor=white" />
     <img src="https://img.shields.io/badge/System%20Design-000000?style=flat-square&logo=systemd&logoColor=white" />
-    <img src="https://img.shields.io/badge/Blockchain-121D33?style=flat-square&logo=ethereum&logoColor=white" />
-</div>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-    <table align="center">
-        <tr>
-            <td align="center" width="50%">
-                <img src="https://github-readme-stats.vercel.app/api?username=y4sh-codes&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&border_radius=10" alt="Yashraj's GitHub Stats" />
-            </td>
-            <td align="center" width="50%">
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=y4sh-codes&layout=compact&theme=react&hide_border=true&border_radius=10" alt="Yashraj's Top Languages" />
-            </td>
-        </tr>
-    </table>
-<div>  
-  <br>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=y4sh-codes&theme=react&hide_border=true&border_radius=10" alt="Yashraj's Contribution Streak" />
 </div>
 
 ---
@@ -116,11 +89,6 @@
     <br>
         Every expert was once a beginner. Let's learn and build something amazing together! 🚀
     <br>
-</div>
-<div>
-  <br>
-    <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with love" />
-  <br>
 </div>
 
 ---
