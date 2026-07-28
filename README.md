@@ -15,7 +15,7 @@
 
 ---
 
-## 🚀 About Me & Philosophy
+## About Me & Philosophy
 
 <div align="center">
     <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2kyMGhmam13cTBrZmZienJvNGNxdG5mZ2N2MzN4anduZ2g5MmExeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Focused Coding Work" width="350"/>
@@ -29,9 +29,9 @@
 
 ---
 
-## 📌 Featured Projects
+## Featured Projects
 
-| 🌐 **context0 Protocol** | 🤖 **Lopt (Deepfake Detector)** | 📚 **DSA & Competitive** |
+| **context0 Protocol** | 🤖 **Lopt (Deepfake Detector)** | 📚 **DSA & Competitive** |
 | :--- | :--- | :--- |
 | **Web3 & Local AI:** Decentralized memory protocol, leveraging blockchain and edge computing. | **AI/ML:** Advanced classification framework for deepfake detection, built with PyTorch. | **Algorithms:** Comprehensive repository of optimized Data Structures and Algorithm solutions in C++ & Python. |
 | [Repo Link](https://github.com/y4sh-codes/context0) | [Repo Link](https://github.com/y4sh-codes/Lopt) | [Repo Link](https://github.com/y4sh-codes/DSA) |
@@ -44,9 +44,9 @@
 
 ---
 
-## 🛠️ Technology Stack & Skills
+## Technology Stack & Skills
 
-### 🚀 Core Technologies
+### Core Technologies
 
 <p align="center">
     <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
@@ -55,7 +55,7 @@
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-### 🎯 Specialized Domains
+### Specialized Domains
 
 <div align="center">
     <img src="https://img.shields.io/badge/Algorithms-FF5733?style=flat-square&logo=algolia&logoColor=white" />
@@ -65,7 +65,7 @@
 
 ---
 
-## 🤝 Let's Connect & Collaborate
+## Let's Connect & Collaborate
 
 <div align="center">
     <a href="mailto:yashrajsingh231105@gmail.com">
@@ -87,7 +87,7 @@
 
 <div align="center">
     <br>
-        Every expert was once a beginner. Let's learn and build something amazing together! 🚀
+        Every expert was once a beginner. Let's learn and build something amazing together!
     <br>
 </div>
 
