@@ -15,7 +15,7 @@
 
 ---
 
-## About Me & Philosophy
+## About Me
 
 <div align="center">
     <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2kyMGhmam13cTBrZmZienJvNGNxdG5mZ2N2MzN4anduZ2g5MmExeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Focused Coding Work" width="350"/>
