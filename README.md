@@ -83,6 +83,9 @@
     <a href="https://www.reddit.com/user/Yashraj_231105">
         <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="Reddit" />
     </a>
+    <a href="https://y4sh-codes.tech">
+        <img src="https://img.shields.io/badge/Portfolio-y4sh--codes.tech-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+    </a>
 </div>
 
 <div align="center">
