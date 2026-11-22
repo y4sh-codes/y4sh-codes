@@ -23,7 +23,7 @@
 
 | Focus Area | Goal & Vision | Core Values |
 | :--- | :--- | :--- |
-| **Status:** Constantly Improving | **Passion:** Technology & Open Source
+| **Status:** Constantly Improving | **Passion:** Technology & Open Source | Innovation
 | **Learning:** DSA, ML, System Design | **Mission:** Impactful Solutions | 💎 Excellence |
 | **Exploring:** Latest CS Trends | **Philosophy:** Learn. Build. Share. Repeat. | 📈 Growth & Collaboration |
 
